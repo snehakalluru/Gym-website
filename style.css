@@ -3,7 +3,7 @@ body {
   color: white;
   margin: 0px;
   padding: 0px;
-  background: url("../images-1/perfect\ gym\ image.jpg");
+  background: url("../images-1/perfect gym image.jpg");
   background-repeat: no-repeat;
   background-size: 100%;
 }
@@ -108,3 +108,4 @@ input:focus {
   border: 1px solid black;
   transform: scale(1);
 }
+
